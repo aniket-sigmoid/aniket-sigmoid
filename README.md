@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+Welcome to my Github Profile. 
+
+![](https://visitor-badge.glitch.me/badge?page_id=aniket-sigmoid.aniket-sigmoid)
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajayb-sigmoid&show_icons=true&theme=gotham" alt="aniket-sigmoid" />
+
 <!--
-**aniket-sigmoid/aniket-sigmoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aniket-sigmoid/aniket-sigmoid** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
