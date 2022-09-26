@@ -12,6 +12,9 @@ Visit : https://www.sigmoid.com/company/
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aniket-sigmoid&show_icons=true&theme=gotham" alt="aniket-sigmoid" />
 
+
+<p align="center"> <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-sigmoid&layout=compact&theme=gotham" />
+
 <!--
 **aniket-sigmoid/aniket-sigmoid** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
